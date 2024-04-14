@@ -4,4 +4,4 @@
 // return a + b
 // }
 
-let suma = (a, b) => a + b; // arrow funcrions
+let suma = (a, b) => a + b; // arrow functions
