@@ -14,14 +14,16 @@ return a + b
 
 Se tiene como base el siguiente ejercicio que cambia el color de fondo de un elemento de HTML al hacerle click  
 
+```html
 <div id="ele1"> hello </div>  
 <script>  
 function pintar(){  
-ele.style.backgroundColor = 'yellow'  
+  ele.style.backgroundColor = 'yellow'  
 }  
 const ele = document.getElementById("ele1")  
 ele.addEventListener("click", pintar);  
 </script>
+```
 
 2.1. El código debe estar en 2 archivos: pintar.html y script.js. El script debe estar dentro de la carpeta assets/js
 
