@@ -13,6 +13,7 @@ return a + b
 }
 
 Se tiene como base el siguiente ejercicio que cambia el color de fondo de un elemento de HTML al hacerle click  
+
 <div id="ele1"> hello </div>  
 <script>  
 function pintar(){  
